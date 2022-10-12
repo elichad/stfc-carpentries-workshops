@@ -10,12 +10,15 @@ P, K, J, I: Organisers
 All of the above plus M: Instructors  
 B: UKAEA contact  
 A: Group leader within SCD  
+G: SCD Admin contact  
 PY: Graduate & Industrial Placement Co-ordinator  
 JM, TL: R34 Contacts  
 RA: SSI Contact  
 AB: STFC staff member  
 
-## Recruitment of organisers and instructors
+## March
+
+### Recruitment of organisers and instructors
 
 From: E  
 To: Graduate channels (Slack and Teams)  
@@ -27,7 +30,9 @@ The Software Carpentry training workshop will run in September/October for new s
 
 If you want to help just at the workshop itself - with debugging, answering questions, etc. - we'll call for that closer to the time.
 
-## Planning
+---
+
+## April
 
 ### Meeting Notes 13 April 2022
 
@@ -100,7 +105,9 @@ One more thing: I’ve added everyone to an #organisers-2022 channel on the Slac
 
 ---
 
-### Meeting Notes 13 May 2022 
+## May
+
+### Agenda 13 May 2022 
 
 From: E  
 To: Organisers  
@@ -123,6 +130,8 @@ I asked A ([redacted] group leader who hosts many grads, IPs and apprentices) wh
 In terms of languages, python is a very good language to learn, as it is versatile, and we use it for multiple things. Object-oriented programming is good to know.
 
 ---
+
+### Meeting Notes 13 May 2022 
 
 From: E  
 To: Organisers  
@@ -158,11 +167,11 @@ Notes:
 *	Starter pack content itself looks good, should add course dates and useful extras such as https://explainshell.com (ideally without becoming overwhelming – we could split to multiple pages if needed)
 *	We need to set up the workshop website and event registration – we will use one site/registration form to cover everything, but allow people to choose between in-person and online attendance for each ‘chunk’
 
-### Action follow-up after 13 May 2022
+### Action: P to book R34 computer training room for all the course dates and flag if any are unavailable
 
 From: I  
 To: Organisers  
-Sent: 13 April 2022  
+Sent: 13 May 2022  
 
 Now that calendar invites have gone out I think there’s another action on me to check with Facilities IT about the availability of their training room. 
 
@@ -172,7 +181,7 @@ Do we want the room for all of the course dates (if it’s available)? I assume 
 
 From: E  
 To: Organisers  
-Sent: 13 April 2022  
+Sent: 13 May 2022  
 
 Yes, we want the training room for all course dates if possible. The invites that P sent out include booking the R34 Training Room – we did have to change Thursday 3 Nov to Monday 7 Nov due to an existing booking of the room (see Slack) but all the other dates are fine.
 
@@ -180,11 +189,13 @@ It probably is worth getting in touch with Facilities IT directly though to give
 
 ---
 
+## June
+
 ### Meeting Notes 09 June 2022
 
-From: E
+From: E  
 Sent: 09 June 2022  
-To: Organisers
+To: Organisers  
 
 Hi all,
 
@@ -215,6 +226,8 @@ Notes:
 
 --- 
 
+### Action: P to check that there isn’t construction work planned around the R34 Training Room during the workshop, and confirm the number of computers available (12? 16?)
+
 From: JM  
 Sent: 26 May 2022  
 To: P  
@@ -236,7 +249,7 @@ JM
 
 From: P  
 Sent: 09 June 2022  
-To: J  
+To: JM  
 Cc: Organisers  
 Subject: RE: R34 Training Room booking 
 
@@ -255,7 +268,9 @@ Cc: Organisers
 Subject: RE: R34 Training Room booking 
 
 Hi P, 
+
 In terms of construction work impacting access to the room, on the attached map there are two routes to get into the training room, blue and orange. The orange route is completely blocked by the building site currently, and I’m not sure what it will be like in October (I will try to find out). 
+
 If people are ok with steps, the blue route is fine. If people need to avoid steps, the best route I’ve identified so far, is to go along the roads round the back of R12 (on road 11) and enter there, and then go through the building to R34 Training room. I’m pretty sure that is step free, although need to walk it fully to confirm. If anyone needed to do this, I’d also look at asking whether it’d be possible for someone to park near the R12 entrance, as otherwise it’s quite a long distance around the buildings and has to be on the road, which seems unsafe for someone with mobility constraints. 
 
 Sensible to contact Service Desk closer to the time with versions, etc. that you require, I’m not sure how much noticethey need, so can try and find that out for you. 
@@ -268,7 +283,7 @@ JM
 
 From: P  
 Sent: 09 June 2022 13:19  
-To: J  
+To: JM  
 Cc: Organisers  
 Subject: RE: R34 Training Room booking  
 
@@ -283,6 +298,61 @@ Thanks again for all the information,
 P
 
 ---
+
+From: JM  
+Sent: 11 August 2022  
+To: P  
+Cc: Organisers  
+Subject: RE: R34 Training Room booking 
+
+Hi P,
+
+Apologies for the very slow response, but I’ve finally remembered to ask the contractors working on the NQCC building project, and there are no plans to move the hoarding, so the access will remain as it is currently for the foreseeable future (construction work is due for completion in Q3 2023).
+
+The Wates contractors said that if there was a need for access via the ramp, they could potentially look at timings and see whether they could facilitate but someone else from estates suggested using another room may be a better solution. As you have multiple sessions and you’re already intending to have a second room, I think it would probably be easier (and safer) that anyone who needed ramp access would go to that room instead? They suggested visitor centre or CR12/13 as being good in terms of accessibility. 
+
+Depending on the size you need, I’d say that there is also a new meeting room on ground floor of R3 (G34, probably called ISIS meeting room R3 G34 in outlook) and there is at least one disabled toilet on ground floor of R3 (and the other toilets are gender neutral). The room has only recently become available, so may have more space than other rooms. It’s only for about 8 people though, and I’m not sure if it is set up for all of those people to be able to plug laptops in. 
+
+Regarding the R34 training room and the blocked ramp, I think it is technically possible to get to it currently, but it means going on road 11 (no pavement) all the way round to entrance of R12, in through R12 and along, so it’s adding a lot of distance to the route, some of which is on a road, which seemed non ideal for anyone with mobility issues. If you think anyone will do this, do let me know and I’ll go walk it and check that it doesn’t have steps and that I can’t see any better options. I would think though, that other rooms may be better as I suspect they will have nearer accessible toilet facilities too? 
+
+I have also got a few signs up in place now to guide people through R12 to R34 and along to the training room. So for most people, it should be easier than it was going through the buildings to find the room. 
+Hope that’s helpful, and apologies for the huge delay! 
+
+JM
+
+---
+
+From: P
+Sent: 11 August 2022
+To: Organisers  
+Subject: FW: R34 Training Room booking 
+
+Hi everyone,
+
+Just to update on room accessibility, it seems the access situation for the R34 room will remain as it currently is. Do we know yet if we have anyone with accessibility requirements attending, or how many in total? As Julia mentioned CR12 as being a better option and we already have that booked it might be that (provided we have enough attendees to justify manning both rooms) we can just recommend CR12 for anyone who would struggle with the long way round to R34?
+
+Cheers,
+
+P
+
+---
+
+From: E  
+Sent: 09 June 2022 13:19  
+To: P  
+Cc: Organisers  
+Subject: RE: R34 Training Room booking 
+
+Hi P,
+
+Thanks for this. We have to ask G to send us the registration list whenever we want to check on it, so I’ll ask for that now ahead of next week’s meeting. I think it’s fine to assign people to CR12 if they need step-free access, the only challenge would be if they also need a computer provided. I suggest we work things out with the attendee directly if someone does hit that combination.
+
+Thanks,
+
+E
+
+
+### Action: E to chase SCD Admin to set up registration form
 
 From: G  
 Sent: 08 June 2022  
@@ -325,9 +395,9 @@ E
 
 Subsequent regular contact between G and E omitted. E asks G for the up-to-date list of registrations every month or so until September, then more frequently as the first workshop approaches. G responds with the relevant spreadsheet.
 
-
-
 ---
+
+### Action: E to check with SSI that other people can spend & claim the SSI funding while E is on medical leave
 
 From: E  
 Sent: 13 June 2022  
@@ -361,6 +431,8 @@ All the best,
 [redacted] (representing RA)
 
 ---
+
+## July
 
 ### Meeting Notes 11 July 2022
 
@@ -442,6 +514,8 @@ E
 
 ---
 
+### Action: E to send out a call for helpers/instructors by Friday
+
 From: E  
 Sent: 14 July 2022  
 To: Organisers
@@ -460,9 +534,11 @@ E
 
 ---
 
-## Recruiting Instructors and Helpers - began July 2022
+Registration emails circulated among new grads, apprentices, and IP students.
 
-[moved to [email-templates.md](email-templates.md)]
+Helper/instructor recruitment emails circulated among older grad cohorts and helpers from 2021.
+
+Those emails have been moved to [email-templates.md](email-templates.md).
 
 ---
 
@@ -501,6 +577,269 @@ Thanks,
 
 E
 
+---
 
+## August
 
+### Meeting notes 16 August 2022
 
+Hi all,
+
+Long overdue write-up from the August meeting. There’s some extra notes based on completed actions.
+
+Actions (many already done and not evenly distributed, oops):
+* P to contact Franz Lang to see why he registered 
+* P to make some analytics stuff for the registration form so we can track how many people are attending each workshop online/in person 
+* E to dig out last year’s preliminary registration numbers and see how they compared to the final numbers 
+* P to make some analytics for the helper sign-up form data so we can figure out how many people we have available for either/both formats on each day
+* E to check recent Zoom versions for new features we could use
+* E to respond to the R34 people about software versions
+* J and P to finish their Instructor checkout process
+* E to contact M; all of us to negotiate what he’ll teach according to his knowledge 
+* E to create September meeting (this will be some time next week)
+
+Finalised teaching allocation:
+Unix 1-3 – E (backup: I)
+Unix 4-7 – I (backup: E)
+Git 1-7 – K (backup: I)
+Git 8-13 – I (with K as the ‘collaborator’ mentioned in episode 8 & 9; backup: K with E as collaborator)
+Python 1-2 (day 1) – P (backup: M)
+Python 3-6 (day 1) – M (backup: P)
+Python 7-9 (day 2) – J (backup: P)
+Python 10-12 (day 2) – P (backup: J)
+Intermediate section 1 – K (backup: I)
+Intermediate section 2 – J (backup: K)
+Intermediate section 3: Paradigms, OOP, Functional Programming – M (backup: P)
+Intermediate section 3 Software Design, Persistence - P (backup: M)
+Intermediate section 4 – I (backup: J)
+Every teaching stint includes a designated 'backup' - someone who should familiarise themselves with the material such that they're comfortable to help answer questions and would be able to step in to teach in an emergency (doesn't need to be practiced, just have a knowledge of how the lesson goes). This person also acts as a natural partner to practice material with (partners should organise this practice themselves).
+
+Notes:
+* As of 16 Aug we had approximately 12 registrations for each workshop, with a preference for online attendance. As of today (06 Sep) we’re up to 15-16 per workshop with about two-thirds of people wanting to attend online. There are 21 registered individuals in total so far.
+    * I am surprised how many people have registered for the Python workshop since it is very basic and most folks coming into computing roles probably have the knowledge already; we should send out an email to attendees closer to the time reminding them that it is for absolute beginners just in case they have misunderstood the level. (maybe it’s possible that we’ve reached beyond the regular computing roles by emailing all the graduates)
+    * P was concerned by the registration of someone that he knows doesn’t need to attend the basic workshops, but has since reached out and established that he only really wanted to attend the intermediate one
+    * I’m also surprised how skewed things are towards online attendance even when a lot of people have returned to site part-time. We don’t need to do anything about this, it’s just interesting to observe
+* Last year we had 27 registrations by 10 Sep – 10 in person and 17 online. Our final attendance was 52 – 16 in person and 36 online. So I’d expect us to roughly double our registrations from today if the same pattern holds this year.
+* We had one additional instructor volunteer – M. He’s got school teaching experience and is happy teaching Python and computing concepts, but less confident with Git. Thanks P and J for helping to share out the chunks of teaching.
+* We know a few people among the SCD grads and ex-grads who we think would make good instructors and who also belong to underrepresented groups, but none of them volunteered themselves through the helper signup form. Those people will definitely have seen the call for instructors, so they probably have good reasons for not volunteering and we should not chase them further (e.g. many of them are heavily involved in outreach and may not have the time to spare). 
+    * Next year we will try to reach out earlier in the planning process to individuals who we know have the right skill sets for instructing and organising to see if they are interested, as well as advertising the opportunity through staff networks and the SCD EDI group to try and broaden our reach beyond our own personal networks.
+* There have not been any features added to Zoom in the last year that are useful enough to make a newer version mandatory for attendees, so we’ll stick with the Zoom 5.7.3+ requirement from last year. We’ll also use the most recent Anaconda, VS Code, and Git Bash versions.
+* UKAEA’s VS Code extras should be added to the central version of the intermediate course material ‘soon’ – B intends to make this PR before our workshop
+* I mentioned Windows Sandbox, which seems a very useful tool in general but not quite appropriate for our needs as software and files are deleted when the sandbox is closed, and we want people to leave with a software setup that works permanently!
+* We will mix up the breakout room groups for each workshop even if there’s a lot of overlap in attendees – but within a single week, breakout groups should remain the same on each day (this helps to build a bit of group rapport and support)
+* J and I tried installing Anaconda to see how easy/difficult this is. It took 20+ minutes to install, so we need to emphasise to attendees that this must be done before the workshop. We should consider running a drop-in before each workshop to assist anyone who has difficulties installing Anaconda or anything else.
+* We now have a SharePoint group for Carpentries stuff: [redacted] . Click ‘Documents’ for slides etc. This also created a group email address: [redacted]. It’s not quite a mailing list, but you can read emails to this address under Groups > Carpentries in Outlook. It’s probably good to direct attendees to contact this email address for updating their registration, getting support with installation, etc. as long as we’re clear about who’s responsible for it (let’s discuss this next meeting)
+
+Thanks,
+
+E
+
+---
+
+### Action: E to respond to the R34 people about software versions
+
+From: TL  
+Sent: 15 August 2022  
+To: P  
+Subject: Software Carpentry course 
+
+Hi P
+
+I can see your bookings for the R34 training room in October and November.
+To ensure the machines have the software for the course installed on them, can you advise what you will need? (and if there is a particular version required).
+
+Regards
+TL
+
+---
+
+From: E  
+Sent: 15 August 2022  
+To: TL  
+Subject: Software Carpentry course 
+
+Hi TL,
+
+Sorry for the slow response. The machines will need:
+•	[Git for Windows](https://gitforwindows.org/) 2.37+ (upgrade from last year)
+•	[Anaconda](https://www.anaconda.com/products/distribution) 22.05 with Python 3.9 (not used last year, this is the current version as of today)
+•	[Visual Studio Code](https://code.visualstudio.com/) – this should be installed as part of Anaconda but please double-check this and install it manually if needed
+
+For the first two, please follow the install process described on this page to get all the settings correct for our workshops: https://stfc.github.io/2022-10-04-ral-carpentries/ 
+
+Thanks,
+
+E
+
+---
+
+From: E  
+Sent: 28 September 2022  
+To: TL  
+Subject: Software Carpentry course 
+
+Hi TL,
+
+Can you confirm if these softwares have been installed on the machines in R34? Our first workshop begins on Tuesday so we need them in place by then.
+I also realized that the Anaconda install does not include VS Code by default as I had thought, so VS Code will need to be installed separately after all.
+
+Can you also confirm if there are working speakers/large screen in the room that can be connected to a laptop? We will be connecting to a zoom call through an instructor’s laptop and I remember we had some trouble with the audio last year. 
+
+Thanks,
+
+E
+
+---
+
+From: TL  
+Sent: 28 September 2022  
+To: E  
+Subject: Software Carpentry course
+
+Hi E
+
+I’ve installed the required software on all 12 machines, using the installation guide provided for Git and Anaconda.
+For Anaconda, I can’t set the PATH variable for an All Users installation, this will need to be done when the user of each machine logs in.
+
+I’ve added your Fed ID to the remote desktop users group on TCPC-R34-01, feel free to remote in and take a look if you wish.
+
+You’ll need to collect the key to the training room from R3, G.37 I’ll leave it on my desk.
+
+Regards
+TL
+
+---
+
+From: TL
+Sent: 30 September 2022
+To: E
+Subject: Software Carpentry course
+
+Hi E
+
+Possibly the main screen at the front has speakers but I’ve not tried this. 
+However, this is something that I’ve been pushing to get ordered so there will hopefully be an audio system in the future.
+
+TL
+
+[*Note from the future: The screen/room does have speakers built in. In 2022 it was straightforward for helpers to connect to these.*]
+
+## September
+
+### Meeting notes 12 September 2022
+
+Hi all,
+
+Notes from Monday – allocated some unassigned actions to people so, as ever, please double check yours.
+
+Actions:
+* Everyone to upgrade to Office 365 (especially those involved in logistics)
+* E to email the people who registered from [external university] and let them know they’re not eligible to attend
+* K to update workshop website to remove individual emails and include the Carpentries group email
+* K to update workshop website to clarify what is meant by ‘STFC staff’ (i.e. it doesn’t include STFC-funded researchers at other institutions)
+* P to purchase premium Slido account & submit expenses claim to SSI
+* P to create Slido events covering the workshop dates & invite everyone as collaborators
+* J to ask around in the Carpentries community about how to manage the pre- and post-workshop surveys
+* E to schedule helper briefing, instructor meetings, logistics meeting, and drop-in sessions
+* E to update planning timeline document
+
+Notes:
+* The Carpentries group email has been updated to Carpentries@stfc.ac.uk.
+* We will direct people to contact the Carpentries group email when they have questions, so it is easier to cover when people are on leave/sick/etc
+* We discovered some idiosyncrasies of the SharePoint group email system, namely that 
+    * Outlook 2016 doesn’t seem to play very nicely with it, but the browser and Outlook 2020/whatever’s in Office 365 are better
+    * Replies are sent as individuals, not as the group, so you need to always reply-all to make sure the rest of the group can continue to see the conversation
+    * You can ‘subscribe’ to the group to have the emails copied to your inbox (so that you get notifications for them)
+    * It is not the same as a mailing list, but serves a broadly similar purpose in our case. We decided that making a mailing list as well wasn’t worth it
+* There are a number of responsibilities that need to be allocated in the run up to the workshops – these fall broadly into three groups:
+    * Teaching responsibilities: This was already allocated, but covers teaching material, backing up other instructors, making slides/notebooks/Slido questions/etc, welcome/wrap-ups at the start and end of each day
+    * (Zoom) Hosting responsibilities: managing waiting room, breakout rooms, watching for questions & comments in Zoom/Etherpad/Slack (last one will be helpers only). 
+    * Logistics responsibilities: Allocating people to rooms ahead of the workshops, booking catering, emailing attendees with advance information, watching the Carpentries group inbox, arranging access accommodations where needed
+    * Note: in a change from previous messaging, the host will not do the welcome/wrap-up comments, because that’s incompatible with handling the waiting room and breakout rooms! Instead, instructors can do this – it’s the same slides each time so barely any extra preparation needed.
+* Logistics will be handled by E, J, and K
+* Hosting has to vary more by its nature:
+    * Unix & Git: P
+    * Python: K
+    * Intermediate days 1,2,5: P
+    * Intermediate day 3: K
+    * Intermediate day 4: J
+* No backups are specified for hosting, the job can be taken over by anyone that’s present on the Zoom (even regular helpers if needed)
+* I is not very available in the next couple of weeks before the first workshop so has opted out of logistics (I’ve also avoided giving him actions for this reason)
+* The pre- and post-workshop surveys pose some challenges. It would be nice to collect data for each course, especially as the intermediate course is new and would benefit from having separate feedback because of that. But the Carpentries infrastructure only gives us one survey link to go along with the website, so how can we collect those responses on a per-course basis? This is one to direct to the wider Carpentries community as we are kind of stuck for ideas.
+* We should plan some meetings in the week before the first workshop for sorting logistics, checking in with instructors, and briefing helpers. We should also have an instructor meeting before the intermediate course since people might be preparing in the few-weeks gap we have before it. I’ll schedule them and we can cancel some if we decide they are no longer needed.
+
+Thanks,
+
+E
+
+---
+
+Calendar invites created for the workshop days and pre-workshop drop-ins, and circulated to whoever needed them at this time.
+
+After the final start date for new starters (mid-late September), requested that registration info be re-circulated.
+
+---
+
+All subsequent internal communication before the course start took place in Slack.
+
+---
+
+## October
+
+All attendees and helpers were contacted with workshop info ahead of each workshop, following templates in [email-templates.md](email-templates.md) (with customisation per-course as necessary).
+
+Recordings, slides, Etherpad link, full course material, and post-workshop survey were sent to all attendees afterward.
+
+---
+
+From: GL  
+Sent: 06 October 2022  
+To: E  
+Subject: Software Carpentry registration
+
+Hi E,
+
+I have received the below message from [redacted] and while looking into this I have noticed that the registration page has reached the 50 person capacity. 
+
+How would you like me to respond to [them] and do you need this capacity extending?
+
+Kind regards,
+GL 
+
+---
+
+From: E  
+Sent: 06 October 2022  
+To: GL  
+Subject: Software Carpentry registration
+
+Hi GL,
+
+We asked the admin team last week to open the registrations to capacity 53 as we had some duplicate/invalid registrations, but I think this got lost in an email flurry. In the end we started accepting extra registrations via direct email to Carpentries@stfc.ac.uk with answers to the registration questions – we tried to circulate this request to potential attendees as best we could, but clearly this person was missed which is a shame.
+
+We’ve also hit capacity for some of our courses due to the number of helpers we have available, so we’re now adding those new registrants to a waiting list.
+
+Could you please update the registration form to add a note saying potential registrants should contact the email above directly? I’ll also contact [redacted] with the recordings etc. from the workshop and help them get on our waiting list.
+
+It’s become really cumbersome for us to do all this back-and-forth to manage our event, to be honest, especially with lots of last-minute changes and registrations and not being able to access or update the form ourselves. I’d be happy to chat sometime about how the system could be improved, but we’ll probably manage registrations ourselves in future – it seems easier for all of us.
+
+For clarity, please don’t change the registration form capacity now.
+
+Thanks,
+
+E
+
+---
+
+From: E  
+Sent: 07 October 2022  
+To: TL  
+Subject: Software Carpentry course
+
+Hi TL, 
+
+During our Git workshop this week, a few attendees created SSH keypairs on the machines in R34 and used them to connect to GitHub. We’ve asked those attendees to disconnect the key on the GitHub side after the workshop, but for safety, could you also remove these SSH keys from the R34 machines themselves? They would have been created on Wednesday 5 Oct. 
+
+Thanks,
+
+E
