@@ -2,6 +2,7 @@
 nav_order: 0
 title: Planning Timeline
 parent: For Organisers
+has_children: true
 ---
 
 

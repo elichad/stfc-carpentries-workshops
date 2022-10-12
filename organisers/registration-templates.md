@@ -1,4 +1,10 @@
-# Registration Templates
+---
+nav_order: 4
+title: Registration Form Templates
+parent: For Organisers
+---
+
+# Registration Form Templates
 
 Questions used on various registration forms.
 

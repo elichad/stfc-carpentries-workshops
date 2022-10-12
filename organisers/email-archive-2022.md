@@ -1,4 +1,10 @@
-# Email Archive
+---
+nav_order: 0
+title: Email Archive 2022
+parent: Planning Timeline
+---
+
+# Email Archive 2022
 
 Archive of emails relating to the planning of Software Carpentry at STFC 2022
 (including notes from each planning meeting)

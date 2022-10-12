@@ -1,3 +1,9 @@
+---
+nav_order: 3
+title: Email Templates
+parent: For Organisers
+---
+
 # Email Templates
 
 Noted in [[double square brackets]] are components that will need adapting for subsequent years
