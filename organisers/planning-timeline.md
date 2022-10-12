@@ -7,8 +7,9 @@ parent: For Organisers
 
 # Planning Timeline
 
-This timeline assumes a workshop will be run at the end of September/early October.
+This timeline assumes a workshop will be run in early October. 
 
+The timeline here is a summary of the key discussions and tasks involved in organising the workshop. There will inevitably be extra small actions and decisions that crop up throughout the planning process; those are excluded for brevity. You can reference the full [email archive from 2022](email-archive-2022.md) to get a more realistic idea of how the organisation process looks in practice.
 
 ## March
 
@@ -39,8 +40,8 @@ Discuss:
 
 Actions:
 * set up workshop website using the [Carpentries workshop template](https://github.com/carpentries/workshop-template) (use past STFC workshop sites as reference)
-* [register workshop with SCD Admin team](https://forms.office.com/Pages/ResponsePage.aspx?id=HDZmP36oWEGPYZnoLbPKyOAXRM1mGQFMqGGVhi0XNxFUMzhZVFRVNE43SlZQNDczMEtHMkpTMUNLOC4u) (internal link)
-* set up registration form, working with SCD Admin team
+* register workshop with SCD Admin team, if using their event management system
+* set up registration form, working with SCD Admin team if needed
 * request funding from the SSI, if applicable
 * book the R34 Training Room and give Facilities IT the heads up
 * book another large conference room for other in-person attendees
@@ -69,8 +70,28 @@ Discuss:
 
 Actions:
 *	Check updates to Git Bash, Zoom, VS Code etc. & decide on versions to use
+*   Request software to be installed on machines managed by FacIT
 *	Recruit helpers
+*   Finalise teaching allocation
 
+## September
+
+Discuss:
+* who will take on different responsibilities, e.g.
+    * logistics
+    * Zoom hosting
+    * (co-)instructing
+* how to receive contact from attendees (group email etc)
+* whether more helpers are needed
+
+Actions:
+* Set up Slido event(s)
+* Schedule helper briefing, instructor meetings, logistics meetings, drop-in sessions
+
+## October
+
+Actions:
+* Final organisation tasks [to be populated after 2022 series]
 
 
 ## Useful links
