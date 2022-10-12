@@ -2,6 +2,8 @@
 
 Noted in [[double square brackets]] are components that will need adapting for subsequent years
 
+Also reference the [email templates in the Carpentries Handbook](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#from-instructors-and-hosts)
+
 ## Helper and Instructor recruitment
 
 Hi all,
